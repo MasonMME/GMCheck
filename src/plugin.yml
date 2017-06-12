@@ -1,0 +1,5 @@
+name: GMCheck
+version: 1.0
+main: com.mason.gmcheck.Main
+commands:
+  gmcheck:
